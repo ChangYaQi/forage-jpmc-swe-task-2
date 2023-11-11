@@ -3,6 +3,8 @@ Working repo for task 2 of JPMC's Forage program
 
 # Task
 ## Mission
+fix the client-side web application so that it displays a graph that automatically updates as it gets data from the server application
+## workflow
 ### 1. env
 1. install npm so that you can work in javascript 安装npm 和 node.js
    working env: jdk21 node.js:18.10.0
